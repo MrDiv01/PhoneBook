@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\nurla\\desktop\\windows_form_mini_project\\phonebook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\nurla\\desktop\\windows_form_mini_project\\phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\nurla\\desktop\\windows_form_mini_project\\phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\nurla\\desktop\\windows_form_mini_project\\phonebook\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\nurla\\desktop\\windows_form_mini_project\\phonebook\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\nurla\\desktop\\windows_form_mini_project\\phonebook\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\nurla\\desktop\\windows_form_mini_project\\phonebook\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\nurla\\desktop\\windows_form_mini_project\\phonebook\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\nurla\\desktop\\windows_form_mini_project\\phonebook\\migrations\\20240804162241_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\migrations\\20240804162241_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\nurla\\desktop\\windows_form_mini_project\\phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\nurla\\desktop\\windows_form_mini_project\\phonebook\\listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\phonebook\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\phonebook\\listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Program.cs",
+              "ToolTip": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Program.cs",
+              "RelativeToolTip": "PhoneBook\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:26:06.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Form1.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Form1.cs",
+              "ToolTip": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Form1.cs [Design]",
+              "RelativeToolTip": "PhoneBook\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:25:59.701Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240804162241_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Migrations\\20240804162241_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Migrations\\20240804162241_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Migrations\\20240804162241_InitialCreate.Designer.cs",
+              "RelativeToolTip": "PhoneBook\\Migrations\\20240804162241_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:24:58.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PhoneBook\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:24:43.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "PhoneBook\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:20:52.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\appsettings.json",
+              "RelativeDocumentMoniker": "PhoneBook\\appsettings.json",
+              "ToolTip": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\appsettings.json",
+              "RelativeToolTip": "PhoneBook\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T19:19:45.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Models\\Person.cs",
+              "RelativeToolTip": "PhoneBook\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:44:28.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PhoneBook\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:34:36.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditForm.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\EditForm.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\EditForm.cs",
+              "ToolTip": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\EditForm.cs",
+              "RelativeToolTip": "PhoneBook\\EditForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:20:55.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\EditForm.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\EditForm.cs",
+              "ToolTip": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\EditForm.cs [Design]",
+              "RelativeToolTip": "PhoneBook\\EditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:20:53.316Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListForm.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\ListForm.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\ListForm.cs",
+              "ToolTip": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\ListForm.cs",
+              "RelativeToolTip": "PhoneBook\\ListForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:14:57.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Form1.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Form1.cs",
+              "ToolTip": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\Form1.cs",
+              "RelativeToolTip": "PhoneBook\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:14:46.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\ListForm.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\ListForm.cs",
+              "ToolTip": "C:\\Users\\nurla\\Desktop\\Windows_Form_Mini_Project\\PhoneBook\\ListForm.cs [Design]",
+              "RelativeToolTip": "PhoneBook\\ListForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:39:18.14Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
